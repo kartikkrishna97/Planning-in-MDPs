@@ -23,6 +23,7 @@ Use the following command to run the program:
 
 ```bash
 python iterations.py <map_size_flag> <csv_map_file> <task_flag>
+```
 
 ### Arguments:
 
