@@ -51,7 +51,7 @@ The following analyses are performed:
 All results, including convergence behavior, value functions, and policy visualizations, are presented in the final report.
 
 ---
-'''
+
 ## Report
 
 A detailed report is included, explaining:
