@@ -38,14 +38,9 @@ python iterations.py <map_size_flag> <csv_map_file> <task_flag>
 - `3` to run **Prioritized Value Iteration**
 - `4` to run **Living Reward Analysis**
 - `5` to run **Transition Probability Analysis**
-
-### Example:
-
-```bash
-python iterations.py 1 small_map.csv 3
 '''
 
-### Analysis
+## Analysis
 
 The following analyses are performed:
 
